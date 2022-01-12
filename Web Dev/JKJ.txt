@@ -1,0 +1,10 @@
+Class Cool
+{
+PSVM(String args[])
+{
+sopln(Joe is cool af);
+sopln(arjun is ichiban it seems);
+sopln(AOT is ichiban, start watching one of the greatest anime's of all time);
+}
+}
+
